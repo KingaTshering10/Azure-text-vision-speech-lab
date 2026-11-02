@@ -1,0 +1,42 @@
+{
+  "Company": "",
+  "Bill To": {
+    "Name": "ABC Manufacturing Pvt. Ltd.",
+    "Address": ""
+  },
+  "Ship To": {
+    "Name": "",
+    "Address": ""
+  },
+  "Receipt Number": "RCPT-2026-1047",
+  "Date": "08 Oct 2026",
+  "P.O. Number": "PO-784512",
+  "Items": [
+    {
+      "Description": "Steel Bolts",
+      "Quantity": 120,
+      "Unit Price": 2.5,
+      "Total": 300.0
+    },
+    {
+      "Description": "Industrial Washers",
+      "Quantity": 250,
+      "Unit Price": 0.8,
+      "Total": 200.0
+    },
+    {
+      "Description": "Safety Gloves",
+      "Quantity": 50,
+      "Unit Price": 5.0,
+      "Total": 250.0
+    }
+  ],
+  "Subtotal": 750.0,
+  "Sales Tax": 67.5,
+  "Total": 817.5,
+  "Payment Instructions": {
+    "Bank Transfer": "",
+    "Paypal email": ""
+  },
+  "Terms & Conditions": ""
+}

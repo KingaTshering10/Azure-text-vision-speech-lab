@@ -1,0 +1,141 @@
+{
+  "source_archive": "7text vision and speech.zip",
+  "byte_preserved_assets": [
+    {
+      "source_path": "1AzureMM/ReceiptAnalyzer/receipt.jpg",
+      "packaged_path": "01_vision/receipt_analyzer/receipt.jpg",
+      "bytes": 249045,
+      "sha256": "6a3a5f02213aa3c28240c72c7c53a23307e9ab53543d9b8d19724aabd575e7cf"
+    },
+    {
+      "source_path": "1AzureMM/ReceiptAnalyzer/receipt_result.csv",
+      "packaged_path": "01_vision/receipt_analyzer/receipt_result.csv",
+      "bytes": 720,
+      "sha256": "93b5b769ae93d52cd2b62d51310706420e8596c0d8e9ff185649f7710df09232"
+    },
+    {
+      "source_path": "1AzureMM/ReceiptAnalyzer/receipt_result.json",
+      "packaged_path": "01_vision/receipt_analyzer/receipt_result.json",
+      "bytes": 838,
+      "sha256": "b1c29247e6b425be8718238a3fb74827a72b1597913a93fcf4ebaef02c1c77e3"
+    },
+    {
+      "source_path": "1AzureMM/ReceiptAnalyzer/test_receipt.jpg",
+      "packaged_path": "01_vision/receipt_analyzer/test_receipt.jpg",
+      "bytes": 79596,
+      "sha256": "b619f399b5b68cd03344908c6b7b6ad86629df95cb8de789a1fc63655f564813"
+    },
+    {
+      "source_path": "1AzureMM/drinks.png",
+      "packaged_path": "01_vision/drinks.png",
+      "bytes": 255197,
+      "sha256": "94a30dc5c9a8f4ed403e990ff2a978b27caa5443f3d87aae7f70b278a229de64"
+    },
+    {
+      "source_path": "1AzureMM/fridge-3.jpg",
+      "packaged_path": "01_vision/fridge-3.jpg",
+      "bytes": 89592,
+      "sha256": "0a82723df118cb8bd83434273de07965297f36b1aaae08065863aad5566906bd"
+    },
+    {
+      "source_path": "1AzureMM/llama31speed.png",
+      "packaged_path": "01_vision/llama31speed.png",
+      "bytes": 32131,
+      "sha256": "bc1347e97ae16af91edde5dba5c890c8be72faf5f7ecf7d5119bbc1ae9c34cf8"
+    },
+    {
+      "source_path": "1AzureMM/receipt.jpg",
+      "packaged_path": "01_vision/receipt.jpg",
+      "bytes": 249045,
+      "sha256": "6a3a5f02213aa3c28240c72c7c53a23307e9ab53543d9b8d19724aabd575e7cf"
+    },
+    {
+      "source_path": "1AzureMM/vpn_error.jpg",
+      "packaged_path": "01_vision/vpn_error.jpg",
+      "bytes": 46507,
+      "sha256": "7f8a3f799b4dd403daad8c21a351566ea69f46fcc286b35d4312d6dc687bbe1b"
+    },
+    {
+      "source_path": "4AzureASR/german.mp3",
+      "packaged_path": "03_speech_recognition/german.mp3",
+      "bytes": 2038988,
+      "sha256": "9e74dabb26db00dcd0585e64ffd395010d35a1ca315df8a97c2dc8fc245f2c1c"
+    },
+    {
+      "source_path": "4AzureASR/rr.mp3",
+      "packaged_path": "03_speech_recognition/rr.mp3",
+      "bytes": 1780915,
+      "sha256": "ae5b426f1c9320aa64c6c3a7c59c7b73f6e6e2efdfc20486c94e1162b288c3e9"
+    },
+    {
+      "source_path": "6TTS/menu1.mp3",
+      "packaged_path": "04_text_to_speech/menu1.mp3",
+      "bytes": 100320,
+      "sha256": "b2720e52124001eba3930884d9c4502dbba38675ad8dc80706c43962abe5f987"
+    },
+    {
+      "source_path": "6TTS/project/NY-hindi.mp3",
+      "packaged_path": "05_voice_assistant/NY-hindi.mp3",
+      "bytes": 30720,
+      "sha256": "ad656891be0b7f7af2ffbf9b13c6eb591911caf221b655ca8b5832d76d397145"
+    },
+    {
+      "source_path": "6TTS/project/NY-swahili.mp3",
+      "packaged_path": "05_voice_assistant/NY-swahili.mp3",
+      "bytes": 39168,
+      "sha256": "e35c34f319227fef5575387d5106a9c4704b6438ef7ec0c685734ed9cd2bc6a9"
+    },
+    {
+      "source_path": "6TTS/project/mergedpdf.pdf",
+      "packaged_path": "05_voice_assistant/mergedpdf.pdf",
+      "bytes": 2494390,
+      "sha256": "2616048d5afb04cd06d8a16abd858129121c66b8a39aa37210b03c118a6d17f7"
+    },
+    {
+      "source_path": "6TTS/project/reply-hindi.mp3",
+      "packaged_path": "05_voice_assistant/reply-hindi.mp3",
+      "bytes": 295296,
+      "sha256": "334919720d9337349b8f9619902a1eb2c71f0a614f8e974ec0e5b74fb55793b0"
+    },
+    {
+      "source_path": "6TTS/project/reply-swahili.mp3",
+      "packaged_path": "05_voice_assistant/reply-swahili.mp3",
+      "bytes": 202368,
+      "sha256": "c0c678b4218db81dfa880c5894cf1384389de8698391f525fcc1adae202526aa"
+    },
+    {
+      "source_path": "6TTS/speech.wav",
+      "packaged_path": "04_text_to_speech/speech.wav",
+      "bytes": 82988,
+      "sha256": "849353e55ec58e95f1ba31f03399c2c6eba1ea03637618106ac7dba7b0724ef4"
+    },
+    {
+      "source_path": "6TTS/speech1.wav",
+      "packaged_path": "04_text_to_speech/speech1.wav",
+      "bytes": 94252,
+      "sha256": "fc9b63c3cb0dd015f91a9c2fa0108410347fc17e5be973d6fde329dfcef860ee"
+    },
+    {
+      "source_path": "6TTS/speech5.wav",
+      "packaged_path": "04_text_to_speech/speech5.wav",
+      "bytes": 80940,
+      "sha256": "e808dc13065fcd50902eab88972a20c2bfd7fef0a5e48077adab5897b3d5d03e"
+    },
+    {
+      "source_path": "6TTS/voicedataset/dataset_info.json",
+      "packaged_path": "04_text_to_speech/voicedataset/dataset_info.json",
+      "bytes": 743,
+      "sha256": "cba45ef2f0cdde7b5f8459721f31595f3617df92f0391200ce7e4d4e5f766911"
+    }
+  ],
+  "derived_assets": [
+    {
+      "source_path": "6TTS/voicedataset/cmu-arctic-xvectors-validation.arrow",
+      "source_sha256": "418988b7d165cde36a3208a7018e60492d2c979a75fd685a34a72a00991eb8c7",
+      "source_index": 7306,
+      "packaged_path": "04_text_to_speech/voicedataset/speaker_embedding.json",
+      "dimensions": 512,
+      "sha256": "99f27c1b92e4edbd676bd9cc9cf2208f389413e78f3769d2abe0e531dd9d8732"
+    }
+  ]
+}

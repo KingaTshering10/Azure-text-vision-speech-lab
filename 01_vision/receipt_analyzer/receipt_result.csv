@@ -1,0 +1,4 @@
+﻿Company,Bill To Name,Bill To Address,Bill To Details,Ship To Name,Ship To Address,Ship To Details,Receipt Number,Date,P.O. Number,Subtotal,Sales Tax,Total,Bank Transfer Payee,Bank Transfer Account Number,Bank Transfer Details,PayPal Email,Payment Instructions Details,Terms & Conditions,Item Description,Item Quantity,Item Unit Price,Item Total
+,ABC Manufacturing Pvt. Ltd.,,,,,,RCPT-2026-1047,08 Oct 2026,PO-784512,750.0,67.5,817.5,,,,,,,Steel Bolts,120,2.5,300.0
+,ABC Manufacturing Pvt. Ltd.,,,,,,RCPT-2026-1047,08 Oct 2026,PO-784512,750.0,67.5,817.5,,,,,,,Industrial Washers,250,0.8,200.0
+,ABC Manufacturing Pvt. Ltd.,,,,,,RCPT-2026-1047,08 Oct 2026,PO-784512,750.0,67.5,817.5,,,,,,,Safety Gloves,50,5.0,250.0
